@@ -8,6 +8,17 @@ body{
     padding: 50px;
 }
 
+html,
+body {
+    width : 100%;
+    weight : 100%;
+}
+
+main{
+    position: fixed;
+    overflow: hidden;
+}
+
 .canvas{
     width: 700px;
     height: 700px;
